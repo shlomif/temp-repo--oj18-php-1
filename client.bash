@@ -7,4 +7,4 @@
 #
 
 
-wget "http://localhost:9010/oj18.php?test1=\"one\"&test2=\"two\"&test3=\"three\"&test4=\"four\"&test5=\"five\""
+wget -O out.txt "http://localhost:9010/oj18.php?test1=\"one\"&test2=\"two\"&test3=\"three\"&test4=\"four\"&test5=\"five\""
